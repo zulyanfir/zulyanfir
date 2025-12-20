@@ -1,8 +1,8 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/9ab44bd2-14e3-4317-a1f3-ac256e1270c1" />
 
-<h4 style="font-family: 'Trebuchet MS', sans-serif; monospace;">🔗 Skills</h4>
-
 <div align="center">
+  
+<h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">🖥️Skills and Technologies🖥️</h3>
   
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=mysql,mariadb,postgresql,oracle,sqlserver,visualstudiocode,microsoftexcel,googlesheets,python,jupyter,tableau,powerbi,metabase)
 

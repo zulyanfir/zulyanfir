@@ -25,8 +25,8 @@
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
 </div>
 
-
-
 <h4 style="font-family: 'Trebuchet MS', sans-serif; monospace;">🔗 Connect with Me on</h4>
 
 ![www.linkedin.com/in/zulyanfirdaus](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+kkb

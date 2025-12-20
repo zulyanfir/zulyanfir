@@ -2,7 +2,7 @@
 
 <div style="font-family: 'Georgia', serif;" align="justify">
 
-My interest in mathematics and statistics led me to study data science, and yes, not a day goes by without me thinking and analyzing, you know 😂. Because I believe that **everything that happens must have a cause**. Instead of guessing, data makes all uncertain assumptions more convincing 🤓. Welcome to my portfolio!, a place that contains the results of my experiments driven by my curiosity about things that happen 🙇‍♂️.
+First of all, my name is Zulyan Firdaus, more commonly known as Julian or Lian 👋. My interest in mathematics and statistics led me to study data science, and yes, not a day goes by without me thinking and analyzing, you know 😂. Because I believe that **everything that happens must have a cause**. Instead of guessing, data makes all uncertain assumptions more convincing 🤓. Welcome to my portfolio!, a place that contains the results of my experiments driven by my curiosity about things that happen 🙇‍♂️.
 
 </div>
 

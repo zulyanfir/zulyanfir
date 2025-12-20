@@ -1,9 +1,17 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/9ab44bd2-14e3-4317-a1f3-ac256e1270c1" />
+![header](img/github-header-banner.png)
+
+<div style="font-family: 'Georgia', serif; text-align: justify;">
+
+My interest in mathematics and statistics led me to study data science, and yes, not a day goes by without me thinking and analyzing, you know 😂. Because I believe that **everything that happens must have a cause**. Instead of guessing, data makes all uncertain assumptions more convincing 🤓. Welcome to my portfolio!, a place that contains the results of my experiments driven by my curiosity about things that happen 🙇‍♂️.
+
+</div>
 
 <div align="center">
   
 <h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">🖥️Skills and Technologies🖥️</h3>
   
+**`Descriptive Analysis`** **`Data Visualization`** **`Inference Analysis`** **`A/B Testing`**
+
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=mysql,mariadb,postgresql,oracle,sqlserver,visualstudiocode,microsoftexcel,googlesheets,python,jupyter,tableau,powerbi,metabase)
 
 </div>
@@ -25,8 +33,6 @@
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
 </div>
 
-<h4 style="font-family: 'Trebuchet MS', sans-serif; monospace;">🔗 Connect with Me on</h4>
-
-![www.linkedin.com/in/zulyanfirdaus](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-kkb
+<div align="center">
+<h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">Thank you for stopping by!😊</h3>
+</div>

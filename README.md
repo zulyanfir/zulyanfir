@@ -1,24 +1,27 @@
 ![header](img/github-header-banner.png)
+<div align="center">
+<h3 style="font-family: 'Comic Sans MS', sans-serif;">Summary 📜</h3>
+</div>
 
-<div style="font-family: 'Georgia', serif;" align="justify">
+<div align="justify">
 
 First of all, my name is Zulyan Firdaus, more commonly known as Julian or Lian 👋. My interest in mathematics and statistics led me to study data science, and yes, not a day goes by without me thinking and analyzing, you know 😂. Because I believe that **everything that happens must have a cause**. Instead of guessing, data makes all uncertain assumptions more convincing 🤓. Welcome to my portfolio!, a place that contains the results of my experiments driven by my curiosity about things that happen 🙇‍♂️.
 
-</div>
-
-<div align="center">
-  
-<h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">🖥️Skills and Technologies🖥️</h3>
-  
-**`Descriptive Analysis`** **`Data Visualization`** **`Inference Analysis`** **`A/B Testing`**
-
-![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=mysql,mariadb,postgresql,oracle,sqlserver,visualstudiocode,microsoftexcel,googlesheets,python,jupyter,tableau,powerbi,metabase)
 
 </div>
 
 <div align="center">
+<h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">Skills 🧠</h3>
+
+**`📊Descriptive Analysis`** **`🧮Inference Analysis`** **`🩺A/B Testing`** **`📈Data Visualization`** **`💻SQL Query`**
+
+</div>
+<div align='center'>
+<h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">Technologies ⚙️</h3>
+
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=mysql,postgresql,oracle,sqlserver,dbeaver,visualstudiocode,microsoftexcel,googlesheets,python,jupyter,tableau,powerbi,metabase)
+
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" title="Relational database for structured data"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -33,6 +36,11 @@ First of all, my name is Zulyan Firdaus, more commonly known as Julian or Lian �
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
 </div>
 
-<div align="center">
-<h3 style="font-family: 'Trebuchet MS', sans-serif; monospace;">Thank you for stopping by!😊</h3>
+<br>
+<br>
+<div align='center'>
+
+![EnjoyEnjoyYourDayGIF](https://github.com/user-attachments/assets/9b0222f7-938c-44af-8c0f-0d5b1abdb8ad)
+
 </div>
+
